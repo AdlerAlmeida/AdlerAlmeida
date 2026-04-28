@@ -4,14 +4,14 @@
 # 👋 Hola, soy Adler 👨‍💻
 
 🚀 Estudiante de Ingeniería en Sistemas  
-🔧 Me gusta trabajar con Arduino, backend y bases de datos  
+🔧 Me gusta trabajar con Backend y bases de datos  
 🔥 En constante aprendizaje  
 
 ---
 
 ## 🧠 Sobre mí
 - 💡 Interesado en desarrollo web y sistemas embebidos  
-- ⚙️ Experiencia con Java, Spring Boot y Firebase  
+- ⚙️ Experiencia con Java y Spring Boot
 - 📚 Actualmente aprendiendo más sobre APIs y arquitectura de software  
 
 ---
@@ -19,8 +19,6 @@
 ## 🛠️ Tecnologías
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
@@ -38,13 +36,6 @@
 
 ## 🚀 Proyectos destacados
 
-### 🔐 Sistema de acceso con huella (Arduino)
-Sistema de autenticación usando sensor de huella y Arduino  
-- 🔧 Hardware + Software  
-- 📡 Posible integración con base de datos  
-
----
-
 ### 🌐 Sistema web con Spring Boot
 Aplicación web con login y conexión a base de datos  
 - 🔐 Autenticación de usuarios  
@@ -53,13 +44,12 @@ Aplicación web con login y conexión a base de datos
 ---
 
 ## 📫 Contacto
-- 📧 Email: tuemail@email.com  
-- 💼 LinkedIn: (pon tu link)  
+- 📧 Email: adler0617@gmail.com  
 
 ---
 
 ## 👀 Visitas
-![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=AdlerAlmeida&color=blue)
 
 ---
 
