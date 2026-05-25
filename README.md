@@ -6,7 +6,6 @@
 
 🚀 Estudiante de Ingeniería en Sistemas  
 🔧 Me gusta trabajar con Backend, bases de datos
-🔥 En constante aprendizaje  
 
 ## 🧠 Sobre mí
 - 💡 Interesado en desarrollo web y sistemas embebidos  
