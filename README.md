@@ -19,9 +19,6 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdlerAlmeida&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdlerAlmeida&layout=compact&theme=radical)
 
 ## 🔥 Racha de contribuciones
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AdlerAlmeida&theme=radical)
