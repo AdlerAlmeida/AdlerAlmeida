@@ -8,7 +8,7 @@
 🔧 Me gusta trabajar con Backend, bases de datos
 
 ## 🧠 Sobre mí
-- 💡 Interesado en desarrollo web y sistemas embebidos  
+- 💡 Interesado en desarrollo web
 - ⚙️ Experiencia con Java y Spring Boot  
 - 🌐 Manejo de HTML y CSS  
 - 📚 Actualmente aprendiendo más sobre APIs y arquitectura de software  
